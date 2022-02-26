@@ -9,8 +9,8 @@
 
 # Knowledge 🧠
 
-![alt text](https://github.com/serifemtl/serifemtl/blob/master/javascript.png?raw=true) ![alt text](https://github.com/serifemtl/serifemtl/blob/master/html5.png?raw=true) ![alt text](https://github.com/serifemtl/serifemtl/blob/master/css3.png?raw=true) 
+![alt text](https://github.com/serifemtl/serifemtl/blob/main/javascript.png?raw=true) ![alt text](https://github.com/serifemtl/serifemtl/blob/main/html5.png?raw=true) ![alt text](https://github.com/serifemtl/serifemtl/blob/main/css3.png?raw=true) 
 
 # Contact Me 📫
 
-[![alt text](https://github.com/serifemtl/serifemtl/blob/master/linkedin.png?raw=true)](https://www.linkedin.com/in/serifemutlu/) [![alt text](https://github.com/serifemtl/serifemtl/blob/master/instagram.png?raw=true)](https://www.instagram.com/serifemutluu_) [![alt text](https://github.com/serifemtl/serifemtl/blob/master/letter.png?raw=true)](mailto:serifemtlu1@gmail.com)
+[![alt text](https://github.com/serifemtl/serifemtl/blob/main/linkedin.png?raw=true)](https://www.linkedin.com/in/serifemutlu/) [![alt text](https://github.com/serifemtl/serifemtl/blob/main/instagram.png?raw=true)](https://www.instagram.com/serifemutluu_) [![alt text](https://github.com/serifemtl/serifemtl/blob/main/letter.png?raw=true)](mailto:serifemtlu1@gmail.com)
